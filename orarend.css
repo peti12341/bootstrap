@@ -1,0 +1,9 @@
+.orange{
+    background-color: orange;
+}
+.red{
+    background-color: rgb(194, 0, 0);
+}
+tr :hover{
+    background-color: maroon;
+}
